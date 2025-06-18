@@ -1,0 +1,20 @@
+.header {
+    background: #fff;
+    height: 10px;
+    color: #f9d104;
+}
+
+.main img {
+    display: block;
+    max-width: 100%;
+    height: auto;
+    margin-top: 20px;
+}
+
+.content {
+    background: #fff;
+    height: 100%;
+    color: #000000;
+    width: 80%;
+}
+

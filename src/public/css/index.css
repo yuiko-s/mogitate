@@ -1,0 +1,44 @@
+.header {
+    background: #fff;
+    height: 10px;
+    color: #f9d104;
+}
+
+.main {
+    height: 600px;
+    display: flex;
+    img {
+            max-width: 100%;
+            height: auto;
+            display: block;
+        }
+}
+
+.content {
+    background: #fff;
+    height: 100%;
+    color: #000000;
+    width: 80%;
+}
+
+.sidebar {
+    background: #fff;
+    height: 100%;
+    color: #000000;
+    width: 15%;
+    max-width: 100%;
+    height: auto;
+    display: block;   }
+
+
+.register-btn {
+    background-color: #dd9611;
+    color: #000000;
+    padding: 10px 20px;
+    border: none;
+    border-radius: 4px;
+    cursor: pointer;
+    font-size: 16px;
+        }
+.register-btn:hover {
+    background-color: #dd9611;   }
